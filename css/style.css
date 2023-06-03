@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-body{
+.body{
     display: flex;
     
 }
@@ -64,17 +64,17 @@ p{
 }
 
 span{
-    height: 21px;
+    height: 30px;
     width: 30px;
     border: 2px solid rgb(2, 2, 134);
     border-radius: 30px;
     margin-left: 10px;
-    font-size: 31px;
+    font-size: 28px;
     align-items: center;
     display: flex;
     justify-content: center;
- 
     padding-bottom: 8px;
+    text-align: center;
 }
 .s{
     display: flex;
