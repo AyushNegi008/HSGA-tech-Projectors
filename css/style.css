@@ -64,7 +64,7 @@ p{
 }
 
 span{
-    height: 30px;
+    height: 24px;
     width: 30px;
     border: 2px solid rgb(2, 2, 134);
     border-radius: 30px;
@@ -73,7 +73,7 @@ span{
     align-items: center;
     display: flex;
     justify-content: center;
-    padding-bottom: 8px;
+    padding-bottom: 6px;
     text-align: center;
 }
 .s{
